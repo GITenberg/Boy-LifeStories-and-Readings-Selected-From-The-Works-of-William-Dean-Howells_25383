@@ -1,0 +1,39 @@
+_repo: Boy-LifeStories-and-Readings-Selected-From-The-Works-of-William-Dean-Howells_25383
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25383-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+  editor:
+    agent_name: Chubb, Percival
+    birthdate: 1860
+    deathdate: 1960
+    gutenberg_agent_id: '31296'
+    url: http://www.gutenberg.org/2009/agents/31296
+description: ''
+gutenberg_issued: '2008-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys'
+- !lcc 'HQ'
+- !lcc 'PZ'
+title: 'Boy Life
+
+  Stories and Readings Selected From The Works of William Dean Howells'
+url: http://www.gutenberg.org/ebooks/25383
